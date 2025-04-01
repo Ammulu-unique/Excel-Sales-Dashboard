@@ -45,6 +45,8 @@ This project analyzes historical **sales data from 2022** to help **Vrinda** und
 2️⃣ Use filters and slicers to interact with the data.  
 3️⃣ Analyze key metrics and trends to improve sales strategies.  
 
----
+## 📊 Dashboard Preview  
+![Excel Dashboard Screenshot](https://github.com/Ammulu-unique/Excel-Sales-Dashboard/blob/main/Dashboard.png)
+
 
 🚀 **Feel free to explore, share feedback, and contribute!**  
